@@ -38,6 +38,7 @@ try {
   display: grid;
   gap: 25px;
   grid-template-columns: 1fr;
+  justify-items: flex-start;
   padding: 25px;
 
   /* Responsive */
